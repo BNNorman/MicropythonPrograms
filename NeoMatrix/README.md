@@ -44,7 +44,9 @@ Similar to the above brightness settings we also have
 with the same ranges as above 
 
 **nm.setPixelPerceivedBrightness(x,y,brightness)** 
+
 **nm.setPixelBrightnessPercent(x,y,brightness)**  
+
 **nm.setPixelBrightness(x,y,brightness)** 
 
 clear the pixels to black 
